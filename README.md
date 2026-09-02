@@ -1,8 +1,8 @@
-# auditor-releases
-Here:
+# Home of auditor
+[https://thash.org/auditor](https://thash.org/auditor)
 
-https://github.com/antonioacsj/auditor-releases/releases 
+# Download
+[https://github.com/antonioacsj/auditor-releases/releases ](https://github.com/antonioacsj/auditor-releases/releases/latest)
 
-are the releases of auditor software:
 
-https://thash.org/auditor
+
